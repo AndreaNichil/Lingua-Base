@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>{% block title %}Check your language{% endblock %}</title>
+    </head>
+    <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <a class="navbar-brand" href="/">Lingua Base</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              
+              <li class="nav-item">
+                <a class="nav-link" href="#">Predict</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/useful_links">Dataset Anlysis</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/dataset">Dataset</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/about_us">About us</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+    
+        <center>
+        
+        <h1> Language extinction prediction </h1><br>
+        <p class="my-class">The model present in this page will calculate, given the values below, whether the language or dialect
+             of your choice is vulnerable, damaged or extinct. In order to have a valuable result you should fullfil all the values
+             in case you cannot find the desired values just insert a zero. Remember: better are the values given 
+             more precise will be the result.
+             Enjoy your research!</p>
+        <h2> Please input a number for each value </h2>
+        
+        <form method="POST", action="{{url_for('home')}}">
+            <b> Number of speakers : <input type="text", name="a", placeholder="enter 1"> <br><br>
+             Quality of life index : <input type="text", name="b", placeholder="enter 2"> <br><br>
+             Population : <input type="text", name="c", placeholder="enter 3"> <br><br>
+             Expected years of schooling : <input type="text", name="d", placeholder="enter 4"> <br><br>
+             Mean years of schooling : <input type="text", name="e", placeholder="enter 5"> <br><br>
+             <h3> Select 1 for the type of government and 0 if it is not that type </h3>
+             Republic : <input type="text", name="f", placeholder="enter 6"> <br><br>
+             Provisional government : <input type="text", name="g", placeholder="enter 7"> <br><br>
+             Absolute monarchy : <input type="text", name="h", placeholder="enter 8"> <br><br>
+             <h3> This value takes the total number of speakers of the language divided by the entire population of the country </h3>
+             Percentage of Speakers(total speakers/population) : <input type="text", name="i", placeholder="enter 9"> <br><br><br></br>
+             <input type="submit", value="PREDICT" >
+        </form>
+        </div>
+    </center>
+   
+    </body>
+</html>

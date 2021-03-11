@@ -1,0 +1,243 @@
+,Rank,Country(or dependent territory),Population
+0,1,China[b],1406981480
+1,2,India[c],1374265327
+2,3,United States[d],331295180
+3,4,Indonesia,270203917
+4,5,Pakistan[e],225200000
+5,6,Brazil,212841546
+6,7,Nigeria,211401000
+7,8,Bangladesh,170290386
+8,9,Russia[f],146238185
+9,10,Mexico,126014024
+10,11,Japan,125620000
+11,12,Ethiopia,117876000
+12,13,Philippines,109931289
+13,14,DR Congo,106731000
+14,15,Egypt,101596580
+15,16,Vietnam,97580000
+16,17,Iran,84261380
+17,18,Turkey,83614362
+18,19,Germany,83190556
+19,20,France[g],67399000
+20,21,United Kingdom[h],66796807
+21,22,Thailand,66620742
+22,23,South Africa,59622350
+23,24,Tanzania[i],59441988
+24,25,Italy,59304696
+25,26,Myanmar,55294979
+26,27,South Korea,51824142
+27,28,Colombia,51049498
+28,29,Kenya,47564296
+29,30,Spain,47351567
+30,31,Argentina,45808747
+31,32,Algeria,44700000
+32,33,Sudan,43291675
+33,34,Uganda,42885900
+34,35,Ukraine[j],41588354
+35,36,Iraq,41190700
+36,37,Canada,38377961
+37,38,Poland,38268000
+38,39,Morocco[k],36185529
+39,40,Uzbekistan,34737692
+40,41,Saudi Arabia,34218169
+41,42,Peru,33035304
+42,43,Afghanistan,32890171
+43,44,Malaysia,32750170
+44,45,Angola,32097671
+45,46,Ghana,30955202
+46,47,Mozambique,30832244
+47,48,Yemen,30491000
+48,49,Nepal,30378055
+49,50,Venezuela,28705000
+50,51,Ivory Coast,27087732
+51,52,Madagascar,26923353
+52,53,Australia,25760505
+53,54,North Korea,25660000
+54,55,Cameroon,24348251
+55,56,Niger,24112753
+56,–,Taiwan[l],23548633
+57,57,Sri Lanka,21919000
+58,58,Burkina Faso,21510181
+59,59,Mali,20856000
+60,60,Chile,19678363
+61,61,Romania,19317984
+62,62,Malawi,18898441
+63,63,Kazakhstan,18884528
+64,64,Zambia,18400556
+65,65,Syria,18276000
+66,66,Ecuador,17687240
+67,67,Netherlands[m],17570381
+68,68,Senegal,17223497
+69,69,Guatemala,17109746
+70,70,Chad,16818391
+71,71,Somalia[n],16360000
+72,72,Zimbabwe,15790716
+73,73,Cambodia,15552211
+74,74,South Sudan,13249924
+75,75,Rwanda,12955768
+76,76,Guinea,12907395
+77,77,Burundi,12574571
+78,78,Benin,12506347
+79,79,Bolivia,11797257
+80,80,Haiti,11743017
+81,81,Tunisia,11708370
+82,82,Belgium,11554449
+83,83,Cuba,11193470
+84,84,Jordan,10896280
+85,85,Greece,10718565
+86,86,Czech Republic,10707839
+87,87,Dominican Republic,10535535
+88,88,Sweden,10380491
+89,89,Portugal,10295909
+90,90,Azerbaijan,10123400
+91,91,Hungary,9731000
+92,92,Honduras,9450711
+93,93,Belarus,9408350
+94,94,United Arab Emirates,9366829
+95,95,Israel,9321580
+96,96,Tajikistan,9313800
+97,97,Papua New Guinea,9122994
+98,98,Austria,8933346
+99,99,Switzerland,8655100
+100,100,Sierra Leone,8297882
+101,101,Togo,7886000
+102,–,Hong Kong,7474200
+103,102,Paraguay,7353038
+104,103,Laos,7337783
+105,104,Libya,6959000
+106,105,Bulgaria,6951482
+107,106,Serbia[o],6926705
+108,107,El Salvador,6825935
+109,108,Lebanon,6769000
+110,109,Kyrgyzstan,6626800
+111,110,Nicaragua,6527691
+112,111,Turkmenistan,6118000
+113,112,Denmark[p],5840045
+114,113,Singapore,5685807
+115,114,Congo,5657000
+116,115,Central African Republic,5633412
+117,116,Finland[q],5506902
+118,117,Slovakia,5459781
+119,118,Norway,5391369
+120,119,Palestine,5227193
+121,120,Costa Rica,5163038
+122,121,New Zealand,5120357
+123,122,Ireland,4977400
+124,123,Liberia,4661010
+125,124,Oman,4489483
+126,125,Kuwait,4464521
+127,126,Panama,4278500
+128,127,Mauritania,4271197
+129,128,Croatia,4047200
+130,129,Georgia[r],3716858
+131,130,Eritrea,3601000
+132,131,Uruguay,3554915
+133,132,Mongolia,3366480
+134,133,Bosnia and Herzegovina,3332593
+135,–,Puerto Rico (US),3193694
+136,134,Armenia,2967900
+137,135,Albania,2845955
+138,136,Lithuania,2792155
+139,137,Jamaica,2734093
+140,138,Qatar,2717360
+141,139,Moldova[s],2640438
+142,140,Namibia,2550226
+143,141,Botswana,2410338
+144,142,Gambia,2335504
+145,143,Gabon,2233272
+146,144,Slovenia,2111461
+147,145,North Macedonia,2076255
+148,146,Lesotho,2007201
+149,147,Latvia,1893700
+150,–,Kosovo[t],1782115
+151,148,Guinea-Bissau,1646077
+152,149,Bahrain,1483756
+153,150,Equatorial Guinea,1454789
+154,151,Trinidad and Tobago,1366725
+155,152,Estonia,1329460
+156,153,East Timor,1317780
+157,154,Mauritius,1266000
+158,155,Eswatini,1093238
+159,156,Djibouti,976107
+160,157,Fiji,889327
+161,158,Cyprus[u],888005
+162,159,Comoros,758316
+163,160,Bhutan,756129
+164,161,Guyana,743699
+165,162,Solomon Islands,721455
+166,–,Macau,683100
+167,163,Luxembourg,626108
+168,164,Montenegro,621873
+169,–,Western Sahara[v],612000
+170,165,Suriname,590100
+171,166,Cape Verde,563198
+172,167,Malta,514564
+173,–,Transnistria[w],469000
+174,168,Brunei,459500
+175,169,Belize,419199
+176,170,Bahamas,393450
+177,171,Maldives,383135
+178,–,Northern Cyprus[x],372486
+179,172,Iceland,368590
+180,173,Vanuatu,301295
+181,174,Barbados,288000
+182,–,French Polynesia (France),278400
+183,–,New Caledonia (France),271407
+184,–,Abkhazia[y],245424
+185,175,São Tomé and Príncipe,214610
+186,176,Samoa,204138
+187,177,Saint Lucia,178696
+188,–,Guam (US),178306
+189,–,Curaçao (Netherlands),156223
+190,–,Republic of Artsakh[z],148800
+191,178,Kiribati,120740
+192,179,Grenada,113000
+193,–,Aruba (Netherlands),111904
+194,180,Saint Vincent and the Grenadines,110696
+195,–,Jersey (UK),107800
+196,181,F.S. Micronesia,104832
+197,–,U.S. Virgin Islands (US),104000
+198,182,Tonga,100651
+199,183,Antigua and Barbuda,99337
+200,184,Seychelles,98462
+201,–,Isle of Man (UK),83314
+202,185,Andorra,78015
+203,186,Dominica,72000
+204,–,Cayman Islands (UK),64958
+205,–,Bermuda (UK),64055
+206,–,Guernsey (UK),63155
+207,–,American Samoa (US),56951
+208,–,Northern Mariana Islands (US),56801
+209,–,Greenland (Denmark),56421
+210,187,Marshall Islands,54516
+211,188,Saint Kitts and Nevis,54000
+212,–,South Ossetia[aa],53532
+213,–,Faroe Islands (Denmark),52967
+214,–,Turks and Caicos Islands (UK),42953
+215,–,Sint Maarten (Netherlands),40614
+216,189,Liechtenstein,38896
+217,190,Monaco,38100
+218,–,Saint Martin (France),34065
+219,–,Gibraltar (UK),34003
+220,191,San Marino,33627
+221,–,Åland Islands (Finland),30144
+222,–,British Virgin Islands (UK),30000
+223,192,Palau,17957
+224,–,Cook Islands (NZ),15342
+225,–,Anguilla (UK),15000
+226,–,Wallis and Futuna (France),11558
+227,193,Nauru,11550
+228,194,Tuvalu,10507
+229,–,Saint Barthélemy (France),10124
+230,–,Saint Pierre and Miquelon (France),5985
+231,–,"Saint Helena, Ascensionand Tristan da Cunha (UK)",5633
+232,–,Montserrat (UK),5000
+233,–,Falkland Islands (UK),3398
+234,–,Christmas Island (Australia),1955
+235,–,Niue (NZ),1784
+236,–,Norfolk Island (Australia),1735
+237,–,Tokelau (NZ),1499
+238,195,Vatican City[ab],825
+239,–,Cocos (Keeling) Islands (Australia),555
+240,–,Pitcairn Islands (UK),50
+241,,World,7852721000
